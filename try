@@ -1,1 +1,2 @@
+out.write(”aString”);
 hello world
