@@ -1,3 +1,4 @@
+public void fetch() throws SQLException, IOException
 Class.forName(driverClass);
 out.write(”aString”);
 hello world
