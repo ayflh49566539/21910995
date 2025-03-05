@@ -1,3 +1,4 @@
+String userName = props.getProperty("db.user");
 public void fetch() throws SQLException, IOException
 Class.forName(driverClass);
 out.write(”aString”);
