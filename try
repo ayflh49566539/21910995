@@ -1,3 +1,4 @@
+props.load(fs);
 try {
 props.load(fs);
 Class.forName(driverClass);
