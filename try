@@ -1,4 +1,5 @@
 test.init();
+test.init();
 Connection con;
 out.write(”aString”);
 Properties props = new Properties();
