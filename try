@@ -1,3 +1,4 @@
+test.fetch();
 test.init();
 test.init();
 Connection con;
