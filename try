@@ -1,3 +1,4 @@
+out.write(”aString”);
 out.close();
 if (out != null) {
 test.fetch();
