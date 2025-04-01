@@ -1,3 +1,4 @@
+Connection con;
 String userName = props.getProperty("db.user");
 out.write(”aString”);
 out.close();
